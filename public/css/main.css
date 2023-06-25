@@ -1,0 +1,14 @@
+.card{
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+   padding: 1rem 0;
+}
+.imgObjectFit{
+    width: 120px;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+    cursor: pointer;
+}
+
